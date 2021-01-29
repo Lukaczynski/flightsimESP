@@ -1,4 +1,4 @@
 idf_component_register(
-    SRCS "main.c"
+    SRCS "rotatory_encoder.c" "main.c"
     INCLUDE_DIRS ""
 )
